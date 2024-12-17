@@ -45,3 +45,8 @@ WORK IN PROGRESS (coming soon)
 ## Closing Remarks and Acknowledgments
 
 Thank you so much for taking the time to explore this project until the end! Your attention and interest are greatly appreciated. If you have any feedback, questions, or suggestions, feel free to reach out.
+
+## Resources 
+
+> TODO
+
