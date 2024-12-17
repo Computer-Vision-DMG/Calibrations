@@ -2,7 +2,7 @@
 
 ## **!!WARNING: WORK IN PROGRESS!!**
 
-This repository is one of the many projects I have created to showcase my knowledge of [Computer Vision](https://github.com/Artificial-Intelligence-DMG) and [Artificial Intelligence](https://github.com/Artificial-Intelligence-DMG).
+This repository is one of the many projects I have created to showcase my knowledge of [Computer Vision](https://github.com/Computer-Vision-DMG) and [Artificial Intelligence](https://github.com/Artificial-Intelligence-DMG).
 
 The project may appear incomplete or not yet well-formed.
 
