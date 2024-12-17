@@ -16,23 +16,31 @@ In this repository, you will be guided through the calibration process of conven
 
 **[Roadmap](## Roadmap):**
 
-1. **[Prerequisites](### Prerequisites)**: The basic mathematical model of the cameras.
-2. **[Assumptions](### Assumptions) and Topic's Target**: The estimation of the perspective projection matrix (PPM).
-3. **[Theory](### Theory)**: An explanation of the mathematics that guide us through the solution of the problem, from the starting point (Prerequisites) to the target (Assumptions and Topic's Target).
-4. **[Code](### Code)**: The Python implementation (and later, C++) of our solution.
-5. **[Test](### Test)**: A final test to prove that the example works as expected according to our calculations.
+1. **[Prerequisites](###Prerequisites)**: The basic mathematical model of the cameras.
+2. **[Assumptions and Topic's Target](###Assumption-and-Target)**: The estimation of the perspective projection matrix (PPM).
+3. **[Theory](###Theory)**: An explanation of the mathematics that guide us through the solution of the problem, from the starting point (Prerequisites) to the target (Assumptions and Topic's Target).
+4. **[Code](###Code)**: The Python implementation (and later, C++) of our solution.
+5. **[Test](###Test)**: A final test to prove that the example works as expected according to our calculations.
 
 ## Roadmap
 
 This section describes the process of understanding camera calibration. If you are starting from scratch, please follow the sub-sections of the Roadmap in order.
 
-### Prerequisites
+### Prerequisites 
 
-### Assumption
+WORK IN PROGRESS (coming soon)
+
+### Assumption and Target 
+
+WORK IN PROGRESS (coming soon)
 
 ### Theory
 
+WORK IN PROGRESS (coming soon)
+
 ### Code
+
+WORK IN PROGRESS (coming soon)
 
 ## Closing Remarks and Acknowledgments
 
