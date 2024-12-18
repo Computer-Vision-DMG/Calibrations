@@ -14,10 +14,10 @@ Thank you for checking out this repository! Please feel free to check back soon 
 
 In this repository, you will be guided through the calibration process of conventional cameras (i.e., those with a lens that converges light onto a 'light sensor,' such as a Charged-Coupled Device (CCD) or a Complementary Metal-Oxide-Semiconductor (CMOS)).
 
-**[Roadmap](## Roadmap):**
+**[Roadmap](##Roadmap):**
 
 1. **[Prerequisites](###Prerequisites)**: The basic mathematical model of the cameras.
-2. **[Assumptions and Topic's Target](###Assumption-and-Target)**: The estimation of the perspective projection matrix (PPM).
+2. **[Assumptions and Topic's Target](###Assumption-and-Target)**: The estimation of the perspective projection matrix (PPM) to retrieve the camera's intrinsic and extrinsic parameters. If only the extrinsic parameters are retrieved, the process is referred to as *camera localization*.
 3. **[Theory](###Theory)**: An explanation of the mathematics that guide us through the solution of the problem, from the starting point (Prerequisites) to the target (Assumptions and Topic's Target).
 4. **[Code](###Code)**: The Python implementation (and later, C++) of our solution.
 5. **[Test](###Test)**: A final test to prove that the example works as expected according to our calculations.
@@ -50,3 +50,4 @@ Thank you so much for taking the time to explore this project until the end! You
 
 > TODO
 
+.ipynb_checkpoints
